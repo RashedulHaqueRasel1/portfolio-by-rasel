@@ -10,7 +10,7 @@ import { router } from "./Router/Router"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <div className='bg-[#0F0715]'>
+    <div className='bg-gradient-to-r from-[#0F0715] to-[#281745]'>
       <RouterProvider router={router} />
     </div>
   </React.StrictMode>,
