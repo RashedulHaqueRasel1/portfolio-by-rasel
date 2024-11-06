@@ -4,7 +4,7 @@ import { ImMenu } from "react-icons/im";
 import { ImCross } from "react-icons/im";
 import { MdDownload } from 'react-icons/md';
 
-import Rasel from '../assets/Rasel.pdf'
+import Rasel from '../assets/Rashedul_Haque_Rasel.pdf'
 
 
 const Navbar = () => {

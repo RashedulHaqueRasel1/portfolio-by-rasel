@@ -16,7 +16,8 @@ import './styles.css';
 import Rasel1 from '../assets/Rasel-1.jpeg'
 import Rasel2 from '../assets/Rasel-2.jpg'
 import Rasel3 from '../assets/Rasel-3.jpg'
-import Rasel from '../assets/Rasel.pdf'
+// import Rasel from '../assets/Rasel.pdf'
+import Rasel from '../assets//Rashedul_Haque_Rasel.pdf'
 
 
 const Home = () => {
